@@ -1,0 +1,1026 @@
+.desktop {
+  background-color: #fff4ec;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #fff4ec;
+  border: 1px solid;
+  border-color: #000000;
+  width: 1440px;
+  height: 6608px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 1163px;
+  top: -76px;
+  left: 0;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 1163px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 718px;
+  top: 265px;
+  left: 101px;
+  font-family: "Libre Bodoni-Bold", Helvetica;
+  font-weight: 700;
+  color: #ff0000;
+  font-size: 140px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .line {
+  position: absolute;
+  width: 1440px;
+  height: 16px;
+  top: 1088px;
+  left: 0;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 244px;
+  top: 1100px;
+  left: 55px;
+  font-family: "Alkalami-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .tempimagehgglfs {
+  position: absolute;
+  width: 623px;
+  height: 931px;
+  top: 164px;
+  left: 817px;
+  mix-blend-mode: color-burn;
+  background-blend-mode: color-burn;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  width: 293px;
+  top: 802px;
+  left: 253px;
+  font-family: "Libre Bodoni-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .rectangle {
+  width: 1440px;
+  height: 165px;
+  left: 0;
+  background-color: #ff0000d1;
+  position: absolute;
+  top: 0;
+}
+
+.desktop .tempimagefpfgt {
+  position: absolute;
+  width: 309px;
+  height: 317px;
+  top: 463px;
+  left: 481px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 817px;
+  height: 16px;
+  top: 852px;
+  left: 0;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 412px;
+  height: 16px;
+  top: 0;
+  left: 334px;
+}
+
+.desktop .line-2 {
+  position: absolute;
+  width: 817px;
+  height: 16px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 448px;
+  top: 879px;
+  left: 136px;
+  font-family: "Libre Bodoni-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-group-2 {
+  position: absolute;
+  width: 1440px;
+  height: 1116px;
+  top: 1100px;
+  left: 0;
+}
+
+.desktop .line-3 {
+  position: absolute;
+  width: 1440px;
+  height: 16px;
+  top: 1100px;
+  left: 0;
+}
+
+.desktop .line-4 {
+  position: absolute;
+  width: 1439px;
+  height: 16px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .lipstick-used-by {
+  position: absolute;
+  top: 96px;
+  left: 790px;
+  font-family: "Almarai-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: -0.72px;
+  line-height: 35px;
+}
+
+.desktop .span {
+  font-weight: 700;
+  letter-spacing: -0.17px;
+}
+
+.desktop .text-wrapper-5 {
+  font-family: "Alkalami-Regular", Helvetica;
+  letter-spacing: -0.17px;
+}
+
+.desktop .text-wrapper-6 {
+  font-family: "Almarai-Regular", Helvetica;
+  font-size: 15px;
+  letter-spacing: -0.07px;
+}
+
+.desktop .renaissance-and {
+  position: absolute;
+  top: 272px;
+  left: 790px;
+  font-family: "Almarai-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: -0.72px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-7 {
+  font-weight: 700;
+  letter-spacing: -0.17px;
+  line-height: 35px;
+}
+
+.desktop .text-wrapper-8 {
+  font-family: "Alkalami-Regular", Helvetica;
+  letter-spacing: -0.17px;
+  line-height: 35px;
+}
+
+.desktop .text-wrapper-9 {
+  line-height: 28px;
+  font-family: "Almarai-Regular", Helvetica;
+  font-size: 15px;
+  letter-spacing: -0.07px;
+}
+
+.desktop .world-war-II-red {
+  position: absolute;
+  top: 543px;
+  left: 790px;
+  font-family: "Almarai-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: -0.72px;
+  line-height: 35px;
+}
+
+.desktop .medieval-europe {
+  position: absolute;
+  top: 196px;
+  left: 276px;
+  font-family: "Almarai-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: -0.72px;
+  line-height: 35px;
+}
+
+.desktop .early-century {
+  position: absolute;
+  top: 387px;
+  left: 164px;
+  font-family: "Almarai-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: -0.72px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-10 {
+  line-height: 25px;
+  font-family: "Almarai-Regular", Helvetica;
+  font-size: 15px;
+  letter-spacing: -0.07px;
+}
+
+.desktop .element-century-clean {
+  position: absolute;
+  top: 669px;
+  left: 348px;
+  font-family: "Almarai-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: -0.72px;
+  line-height: 24px;
+}
+
+.desktop .text-wrapper-11 {
+  font-family: "Almarai-Regular", Helvetica;
+  font-size: 15px;
+  letter-spacing: -0.07px;
+  line-height: 35px;
+}
+
+.desktop .text-wrapper-12 {
+  line-height: 20px;
+  font-family: "Almarai-Regular", Helvetica;
+  font-size: 15px;
+  letter-spacing: -0.07px;
+}
+
+.desktop .tempimagennpye {
+  position: absolute;
+  width: 815px;
+  height: 1098px;
+  top: 8px;
+  left: 382px;
+  mix-blend-mode: multiply;
+  background-blend-mode: multiply;
+}
+
+.desktop .text-wrapper-13 {
+  top: 54px;
+  left: 745px;
+  position: absolute;
+  font-family: "Almarai-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 32px;
+  text-align: right;
+  letter-spacing: -0.96px;
+  line-height: 35px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-14 {
+  top: 145px;
+  left: 655px;
+  position: absolute;
+  font-family: "Almarai-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 32px;
+  text-align: right;
+  letter-spacing: -0.96px;
+  line-height: 35px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-15 {
+  top: 224px;
+  left: 745px;
+  position: absolute;
+  font-family: "Almarai-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 32px;
+  text-align: right;
+  letter-spacing: -0.96px;
+  line-height: 35px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-16 {
+  top: 326px;
+  left: 662px;
+  position: absolute;
+  font-family: "Almarai-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 32px;
+  text-align: right;
+  letter-spacing: -0.96px;
+  line-height: 35px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-17 {
+  top: 506px;
+  left: 758px;
+  position: absolute;
+  font-family: "Almarai-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 32px;
+  text-align: right;
+  letter-spacing: -0.96px;
+  line-height: 35px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-18 {
+  top: 617px;
+  left: 654px;
+  position: absolute;
+  font-family: "Almarai-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 32px;
+  text-align: right;
+  letter-spacing: -0.96px;
+  line-height: 35px;
+  white-space: nowrap;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 1440px;
+  height: 1304px;
+  top: 2345px;
+  left: 0;
+}
+
+.desktop .line-5 {
+  position: absolute;
+  width: 1440px;
+  height: 16px;
+  top: 1288px;
+  left: 0;
+}
+
+.desktop .RED-ancient-egypt {
+  position: absolute;
+  top: 214px;
+  left: 869px;
+  font-family: "Almarai-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: -1.2px;
+  line-height: 40px;
+}
+
+.desktop .text-wrapper-19 {
+  font-weight: 700;
+  letter-spacing: -0.48px;
+  line-height: 35px;
+}
+
+.desktop .text-wrapper-20 {
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: -0.17px;
+  line-height: 35px;
+}
+
+.desktop .text-wrapper-21 {
+  font-family: "Almarai-Regular", Helvetica;
+  font-size: 29px;
+  letter-spacing: -0.25px;
+  line-height: 35px;
+}
+
+.desktop .text-wrapper-22 {
+  font-family: "Almarai-Light", Helvetica;
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: -0.17px;
+  line-height: 35px;
+}
+
+.desktop .text-wrapper-23 {
+  font-family: "Almarai-Light", Helvetica;
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: -0.17px;
+  line-height: 9px;
+}
+
+.desktop .BLACK-a-symbol-of {
+  position: absolute;
+  top: 597px;
+  left: 1057px;
+  font-family: "Almarai-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: -1.2px;
+  line-height: 35px;
+}
+
+.desktop .text-wrapper-24 {
+  font-weight: 700;
+  letter-spacing: -0.48px;
+}
+
+.desktop .text-wrapper-25 {
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: -0.17px;
+}
+
+.desktop .text-wrapper-26 {
+  font-family: "Almarai-Light", Helvetica;
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: -0.17px;
+}
+
+.desktop .text-wrapper-27 {
+  font-family: "Almarai-Regular", Helvetica;
+  font-size: 29px;
+  letter-spacing: -0.25px;
+}
+
+.desktop .PINK-a-symbol-of {
+  position: absolute;
+  top: 958px;
+  left: 70px;
+  font-family: "Almarai-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  text-align: right;
+  letter-spacing: -1.2px;
+  line-height: 35px;
+}
+
+.desktop .natural-color-nude {
+  position: absolute;
+  top: 74px;
+  left: 330px;
+  font-family: "Almarai-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: -1.2px;
+  line-height: 35px;
+}
+
+.desktop .tempimageckzcd {
+  position: absolute;
+  width: 1005px;
+  height: 1160px;
+  top: 129px;
+  left: 199px;
+  mix-blend-mode: multiply;
+  background-blend-mode: multiply;
+  object-fit: cover;
+}
+
+.desktop .line-6 {
+  position: absolute;
+  width: 1px;
+  height: 250px;
+  top: 166px;
+  left: 318px;
+  object-fit: cover;
+}
+
+.desktop .ellipse {
+  top: 151px;
+  left: 311px;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background-color: #0000001f;
+  border-radius: 7.5px;
+}
+
+.desktop .line-7 {
+  position: absolute;
+  width: 1px;
+  height: 250px;
+  top: 716px;
+  left: 430px;
+  object-fit: cover;
+}
+
+.desktop .ellipse-2 {
+  top: 966px;
+  left: 423px;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background-color: #0000001f;
+  border-radius: 7.5px;
+}
+
+.desktop .line-8 {
+  position: absolute;
+  width: 1px;
+  height: 250px;
+  top: 643px;
+  left: 1033px;
+  object-fit: cover;
+}
+
+.desktop .ellipse-3 {
+  top: 628px;
+  left: 1026px;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background-color: #0000001f;
+  border-radius: 7.5px;
+}
+
+.desktop .line-9 {
+  position: absolute;
+  width: 1px;
+  height: 250px;
+  top: 261px;
+  left: 837px;
+  object-fit: cover;
+}
+
+.desktop .ellipse-4 {
+  top: 246px;
+  left: 830px;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background-color: #0000001f;
+  border-radius: 7.5px;
+}
+
+.desktop .tempimagejmpch {
+  position: absolute;
+  width: 248px;
+  height: 246px;
+  top: 467px;
+  left: 1159px;
+  mix-blend-mode: darken;
+  object-fit: cover;
+}
+
+.desktop .tempimageaokir {
+  position: absolute;
+  width: 243px;
+  height: 254px;
+  top: 0;
+  left: 111px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+}
+
+.desktop .tempimagezujnb {
+  position: absolute;
+  width: 175px;
+  height: 177px;
+  top: 855px;
+  left: 146px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+}
+
+.desktop .tempimageelzha {
+  position: absolute;
+  width: 200px;
+  height: 206px;
+  top: 110px;
+  left: 996px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+}
+
+.desktop .line-10 {
+  position: absolute;
+  width: 1440px;
+  height: 16px;
+  top: 4711px;
+  left: 0;
+}
+
+.desktop .overlap-4 {
+  position: absolute;
+  width: 1440px;
+  height: 854px;
+  top: 4799px;
+  left: 0;
+}
+
+.desktop .line-11 {
+  position: absolute;
+  width: 1440px;
+  height: 16px;
+  top: 838px;
+  left: 0;
+}
+
+.desktop .tempimagezupkp {
+  position: absolute;
+  width: 1440px;
+  height: 838px;
+  top: 8px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+}
+
+.desktop .group {
+  top: 530px;
+  left: 974px;
+  position: absolute;
+  width: 306px;
+  height: 70px;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 304px;
+  top: 0;
+  left: 0;
+  font-family: "Almarai-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24.5px;
+  text-align: center;
+  letter-spacing: -0.73px;
+  line-height: 35px;
+}
+
+.desktop .div-wrapper {
+  top: 590px;
+  left: 568px;
+  position: absolute;
+  width: 306px;
+  height: 70px;
+}
+
+.desktop .group-2 {
+  top: 530px;
+  left: 158px;
+  position: absolute;
+  width: 306px;
+  height: 70px;
+}
+
+.desktop .tempimagefv {
+  position: absolute;
+  width: 393px;
+  height: 393px;
+  top: 105px;
+  left: 113px;
+  object-fit: cover;
+}
+
+.desktop .tempimagetdqfek {
+  position: absolute;
+  width: 393px;
+  height: 393px;
+  top: 190px;
+  left: 518px;
+  object-fit: cover;
+}
+
+.desktop .tempimagedl {
+  position: absolute;
+  width: 393px;
+  height: 393px;
+  top: 105px;
+  left: 929px;
+  object-fit: cover;
+}
+
+.desktop .line-12 {
+  position: absolute;
+  width: 1439px;
+  height: 16px;
+  top: 2288px;
+  left: 0;
+}
+
+.desktop .line-13 {
+  position: absolute;
+  width: 1439px;
+  height: 16px;
+  top: 3721px;
+  left: 0;
+}
+
+.desktop .line-14 {
+  position: absolute;
+  width: 1439px;
+  height: 16px;
+  top: 5725px;
+  left: 0;
+}
+
+.desktop .text-wrapper-28 {
+  position: absolute;
+  width: 775px;
+  top: 3655px;
+  left: 55px;
+  font-family: "Alkalami-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-29 {
+  position: absolute;
+  width: 593px;
+  top: 2220px;
+  left: 746px;
+  font-family: "Alkalami-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-5 {
+  position: absolute;
+  width: 1435px;
+  height: 834px;
+  top: 3781px;
+  left: 0;
+}
+
+.desktop .element-in-the {
+  position: absolute;
+  width: 515px;
+  top: 655px;
+  left: 83px;
+  font-family: "Almarai-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  text-align: right;
+  letter-spacing: -1.2px;
+  line-height: 40px;
+}
+
+.desktop .text-wrapper-30 {
+  font-weight: 800;
+  letter-spacing: -0.48px;
+  line-height: 35px;
+}
+
+.desktop .text-wrapper-31 {
+  font-family: "Almarai-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: -0.17px;
+  line-height: 35px;
+}
+
+.desktop .text-wrapper-32 {
+  font-family: "Almarai-Light", Helvetica;
+  font-weight: 300;
+  font-size: 19px;
+  letter-spacing: -0.11px;
+  line-height: 28px;
+}
+
+.desktop .element-s-in-the-s {
+  position: absolute;
+  width: 515px;
+  top: 12px;
+  left: 242px;
+  font-family: "Almarai-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  text-align: right;
+  letter-spacing: -1.2px;
+  line-height: 40px;
+}
+
+.desktop .element-lipstick {
+  position: absolute;
+  width: 515px;
+  top: 655px;
+  left: 694px;
+  font-family: "Almarai-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  text-align: right;
+  letter-spacing: -1.2px;
+  line-height: 40px;
+}
+
+.desktop .tempimagepjdxm {
+  position: absolute;
+  width: 1435px;
+  height: 607px;
+  top: 161px;
+  left: 0;
+  mix-blend-mode: multiply;
+  background-blend-mode: multiply;
+  object-fit: cover;
+}
+
+.desktop .tempimagebbjhbw {
+  position: absolute;
+  width: 392px;
+  height: 265px;
+  top: 0;
+  left: 904px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+}
+
+.desktop .tempimagerrgsto {
+  position: absolute;
+  width: 402px;
+  height: 403px;
+  top: 5875px;
+  left: 109px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+}
+
+.desktop .overlap-6 {
+  position: absolute;
+  width: 431px;
+  height: 98px;
+  top: 6320px;
+  left: 80px;
+}
+
+.desktop .rectangle-2 {
+  width: 338px;
+  height: 98px;
+  left: 47px;
+  border-radius: 25px;
+  border: 3px solid;
+  border-color: #ff0000;
+  position: absolute;
+  top: 0;
+}
+
+.desktop .lip-gloss-a-slightly {
+  position: absolute;
+  width: 431px;
+  top: 15px;
+  left: 0;
+  font-family: "Almarai-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0.75px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-33 {
+  font-weight: 800;
+  letter-spacing: 0.19px;
+}
+
+.desktop .text-wrapper-34 {
+  font-family: "Almarai-Regular", Helvetica;
+  font-size: 20px;
+  letter-spacing: 0.12px;
+}
+
+.desktop .lipstick-a-matte-wrapper {
+  position: absolute;
+  width: 338px;
+  height: 98px;
+  top: 6320px;
+  left: 551px;
+  border-radius: 25px;
+  border: 3px solid;
+  border-color: #ff0000;
+}
+
+.desktop .lipstick-a-matte {
+  position: absolute;
+  width: 336px;
+  top: 12px;
+  left: -1px;
+  font-family: "Almarai-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0.75px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.desktop .overlap-7 {
+  position: absolute;
+  width: 443px;
+  height: 98px;
+  top: 6320px;
+  left: 946px;
+}
+
+.desktop .rectangle-3 {
+  width: 357px;
+  height: 98px;
+  left: 42px;
+  border-radius: 25px;
+  border: 3px solid;
+  border-color: #ff0000;
+  position: absolute;
+  top: 0;
+}
+
+.desktop .lip-tint-a {
+  position: absolute;
+  width: 443px;
+  top: 15px;
+  left: 0;
+  font-family: "Almarai-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0.75px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.desktop .tempimagezaioq {
+  position: absolute;
+  width: 304px;
+  height: 437px;
+  top: 5866px;
+  left: 586px;
+  mix-blend-mode: darken;
+  object-fit: cover;
+}
+
+.desktop .tempimagebvdyrm {
+  position: absolute;
+  width: 397px;
+  height: 411px;
+  top: 5867px;
+  left: 948px;
+  mix-blend-mode: darken;
+  object-fit: cover;
+}
